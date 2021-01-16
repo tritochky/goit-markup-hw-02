@@ -56,6 +56,10 @@ body {
   list-style: none;
 }
 
+.navigation-list-link {
+  color: var(--color-text-title);
+}
+
 .navigation-list-link,
 .contacts-tel-link,
 .contacts-mail-link,
