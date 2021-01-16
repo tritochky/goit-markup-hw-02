@@ -59,7 +59,8 @@ body {
 .navigation-list-link,
 .contacts-tel-link,
 .contacts-mail-link,
-.contact-information-list-link {
+.contact-information-list-link,
+.portfolio-list-link {
   text-decoration: none;
 }
 
